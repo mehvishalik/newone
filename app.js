@@ -1,1 +1,1 @@
-console.log("main second");
+console.log("hello");
